@@ -2,4 +2,4 @@
 it is simple eCommerce web app (development process)
 
 
-it is not complted work on process
+it is not completed work on process
